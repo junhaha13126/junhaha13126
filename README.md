@@ -2,7 +2,7 @@
 <h1>Hello! Nice to see you. <img src="https://slackmojis.com/emojis/8268-blob-hype/download" width="30"/></h1>
 
 
-<p>Welcome to my page! </br> I'm <b>Junha Park</b>, Student developer from <b>Daejeon, South Korea</b>.</br> I am a bachelor's degree student studying at <b>KAIST</b>, and I am currently studying <b>Big-Data</b>. </br> Thank you for visiting, and please continue to show your interest!</p>
+<p>Welcome to my page! </br> I'm <b>Junha Park</b>, Student developer from <b>Daejeon, South Korea</b>.</br> I am a bachelor's degree student studying at <b>KAIST</b>, and I am currently studying <b>Data-Science</b>. </br> Thank you for visiting, and please continue to show your interest!</p>
 
 <h3>Things I code with</h3>
 <p>
